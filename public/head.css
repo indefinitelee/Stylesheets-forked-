@@ -1,0 +1,19 @@
+.policies > h1 {
+  color: #f56342;
+}
+
+.policies h2 {
+  color: #f5222d;
+}
+.policies h3 {
+  color: #be391c;
+}
+
+.policies p {
+  color: #ebebeb;
+  background: #d03916;
+}
+.policies .static-classname > h4 {
+  font-size: 13px;
+  color: #000;
+}

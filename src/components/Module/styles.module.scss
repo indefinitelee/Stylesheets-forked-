@@ -1,0 +1,22 @@
+.policy {
+  h1 {
+    color: #64885b;
+  }
+  h2 {
+    color: #419837;
+  }
+  h3 {
+    color: #dff0d8;
+  }
+  p {
+    color: #ebebeb;
+    background: #00c292;
+  }
+
+  & .static-classname {
+    h4 {
+      font-size: 13px;
+      color: #000;
+    }
+  }
+}
